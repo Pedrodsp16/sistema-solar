@@ -1,0 +1,66 @@
+body {
+    background-color: #030312;
+    color:aliceblue;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+    
+    
+}
+.h1 {
+    color: white;
+    text-align: center;}
+/*mercurio*/
+
+.fotomer img {
+    max-width: 175px;}
+
+/*venus*/
+
+.fotoven img {
+    max-width: 250px;}
+.fotoven {
+    text-align: center;}
+
+/*terra*/
+
+.fototer img {
+    max-width: 175px;}
+.fototer {
+    text-align: center;}
+
+/*marte*/
+
+.fotomar img {
+    max-width: 285px;}
+.fotomar {
+    text-align: center;}
+
+/*jupter*/
+
+.fotojup img {
+    max-width: 300px;}
+.fotojup {
+    text-align: center;}
+
+/*saturno*/
+
+.fotosat img {
+    max-width: 450px;}
+.fotosat {
+    text-align: center;}
+
+/*urano*/
+
+.fotoura img {
+    max-width: 425px;}
+.fotoura {
+    text-align: center;}
+
+/*netuno*/
+
+.fotonet img {
+    max-width: 200px;}
+.fotonet {
+    text-align: center;}
+
